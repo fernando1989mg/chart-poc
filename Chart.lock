@@ -1,0 +1,9 @@
+dependencies:
+- name: chart-front
+  repository: http://localhost:8879
+  version: 0.2.2
+- name: chart-ms
+  repository: http://localhost:8879
+  version: 0.1.0
+digest: sha256:02a4500167357dd46662e7a720aae13d3ad0c05b2aa59426d47c0ad0f12ecf38
+generated: "2021-10-21T09:18:07.677477-03:00"
